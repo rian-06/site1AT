@@ -10,7 +10,6 @@
     border-radius: 5%;
     margin-left: 25%;
     background-color: aliceblue;
-
 }
 
 h1,h2 { margin-left: 35%;
@@ -63,4 +62,26 @@ section {
 
 .compet {
     margin-left: 100px;
+}
+
+
+
+#footer3 {
+    width: 50%;
+    height: 600px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5%;
+    margin-left: 25%;
+    background-color:rgb(48, 48, 177);
+}
+
+h3 { margin-left: 40%;
+    margin-top: 5%;
+    color: aliceblue;
+    }
+  
+h5 {
+    color:turquoise;
+    margin-left: 25%;
+
 }
